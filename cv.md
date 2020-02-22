@@ -1,10 +1,10 @@
 # Resume
-'Name:' Saveli Zaitsev
-'age:' 19 years
+`Name:` Saveli Zaitsev
+`age:` 19 years
 
 ### Contact info
-'email:' oisurka@gmail.com
-'telegramm:' @savvazaicev
+`email:` oisurka@gmail.com
+`telegramm:` @savvazaicev
 
 ### Summary
 - My goal is to improve my technical skills in Android programming and work on intersting projects.
@@ -26,4 +26,4 @@ worse talking, but people also underatsnd me).
 ### Examples of code
 - 100+ Different tasks on Java [EPAM Introducing to Java Online](https://github.com/savvazaicev/Epam_Introducing_to_Java_Online).
 - Some tasks on Kotlin on [Codewars](https://www.codewars.com/users/savvazaicev/completed_solutions).
-- A simple DataBase with MySQL Workbench [here](https://github.com/savvazaicev/DataBase) .
+- A simple DataBase with MySQL Workbench [here](https://github.com/savvazaicev/DataBase).
