@@ -13,7 +13,6 @@
 - C++ at the university
 - JAVA course "EPAM Introducing to Java Online"
 - Android course Rolling Scopes [Android application development](https://rs.school/android/). There I create 4 apps.
-- I used in practice: Git, Java, Kotlin + Coroutines, MVC, MVP, MVVM, Room, SQLite, Retrofit, Firebase and other.
 
 ### Experience
 - 3 small apps on freelance.
