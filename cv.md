@@ -1,28 +1,28 @@
 # Resume
 `Name:` Saveli Zaitsev
-`age:` 19 years
+`age:` 20 years
 
 ### Contact info
 `email:` oisurka@gmail.com
 `telegramm:` @savvazaicev
 
 ### Summary
-- My goal is to improve my technical skills in Android programming and work on intersting projects.
-- It is important for me to be in good relationships with other people in my team, have some freedom of action,
-development opportunities and respect from the company.
+- My main goal of work is to improve my technical skills in Flutter/Android. I am interested in launching a startup in the future.
 
-### Skills, experience, education
-- I was learning C++ at the university for 1,5 year, then I passed a JAVA course "EPAM Introducing to Java Online",
-it's gave me a good fundamental knowledges.
-- I passed a course from Rolling Scopes [Android application development](https://rs.school/android/). There I create 4 apps.
-- Also I create 2 apps on freelance. 
-- I used in practice: Git, Kotlin + Coroutines, MVC, MVP, MVVM, Fragment Manager, Navigation, Room, SQLite, Glide, Material Design, Retrofit, Paging, Firebase and other.
-- Also I know basic algoritms and data structures, design patterns.
-- What I have not used in practice and what I am focusing on now: RxJava, Dependency Injection, Tests.
+### Education
+- C++ at the university
+- JAVA course "EPAM Introducing to Java Online"
+- Android course Rolling Scopes [Android application development](https://rs.school/android/). There I create 4 apps.
+- I used in practice: Git, Java, Kotlin + Coroutines, MVC, MVP, MVVM, Room, SQLite, Retrofit, Firebase and other.
+
+### Experience
+- 3 small apps on freelance.
+- 1 year at startup as Flutter/Android Developer
+
+### Skills
+- Android: Java, Kotlin + Coroutines, ArCore, Room, Retrofit, and other.
+- FLutter: BloC, Provider, Dio.
+- Common: Git, MVC, MVP, MVVM, SQLite, Firebase.
 
 ### English
-- I studied English at school, my Englisg level is B1 Intermediate (enough to read technical literature and understand talk,
-worse talking, but people also underatsnd me).
-
-### Examples of code
-- I will provide code examples on request, also you can check my [github](https://github.com/savvazaicev).
+- B1 Intermediate
